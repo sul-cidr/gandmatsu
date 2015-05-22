@@ -7,6 +7,6 @@ This page will grow to become a site giving a comprehensive view on geography an
 
 
 
-_CONTRIBUTORS_
+_Contributors_
 * Claudia Engel
 * Karl Grossner
