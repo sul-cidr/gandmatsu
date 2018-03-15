@@ -1,7 +1,7 @@
 ---
 title: "Geography and Mapping @ Stanford"
 author: "cengel {sul-cidr}"
-date: "Nov 1, 2015"
+date: "Feb 1, 2018"
 output: 
   html_document: 
     toc: yes
@@ -10,69 +10,96 @@ output:
 
 From https://explorecourses.stanford.edu
 
-# Courses taught during academic year 2015/2016  
+# Courses taught during academic year 2017/2018  
 ## GIS
 
 #### ANTHRO 130D/ANTHRO 230D/POLISCI 241S/URBANST 124: Spatial Approaches to Social Science
 This multidisciplinary course combines different approaches to how GIS and spatial tools can be applied in social science research. We take a collaborative, project oriented approach to bring together technical expertise and substantive applications from several social science disciplines. The course aims to integrate tools, methods, and current debates in social science research and will enable students to engage in critical spatial research and a multidisciplinary dialogue around geographic space.
-Terms: Aut | Units: 5 | UG Reqs: WAY-AQR, WAY-SI | Grading: Letter or Credit/No Credit
+Terms: Win | Units: 5 | UG Reqs: WAY-AQR, WAY-SI | Grading: Letter or Credit/No Credit
 Instructors: Engel, C. (PI) ; Rodden, J. (PI)
 
-#### ANTHRO 98C/ANTHRO 298C: Digital Methods in Anthropology
-The course provides an introduction to a broad range of digital tools and techniques for anthropological research. It is geared towards those interested in exploring such methodologies for their research and wanting to add hands-on experience with state-of-the-art digital tools to their skill set. Students will learn to work with some of the most common tools used to collect and manage digital data, and to perform various types of analysis and visualization.nUndergraduate students register for 5 Units, Graduate students can register for 5 or 3 units.
-Terms: Spr | Units: 3-5 | Grading: Letter or Credit/No Credit
-Instructors: Engel, C. (PI)
-
-#### ANTHRO 349A: Advanced Archaeological Field Methods: A Practical Approach to Working With and Within Communities
-This is a graduate level course (open to undergraduates with permission) in archaeological field methods at several archaeological and cultural sites in the San Francisco Bay area. This is a practical course designed to help students identify potential archaeological sites (using GIS) historical maps, historical archives and extant site reports. Students will gain hands-on experience with mapping, field survey and strategies and methods of field excavation. Study of local artifact types and lab techniques for artifact cleaning and identification and written analysis. The course emphasizes a community based model of archaeology, working with members of local indigenous cultures. The seminar will begin with readings and classroom instruction and proceed to the field. Students will be required to hike to field sites and conduct experiments using a variety of equipment, recording devices and strategies.
-Terms: Win | Units: 5 | Grading: Letter or Credit/No Credit
-Instructors: Wilcox, M. (PI)
-
-#### ARCHLGY 125: ARCHAEOLOGICAL FIELD SURVEY METHODS
+####ARCHLGY 125: ARCHAEOLOGICAL FIELD SURVEY METHODS
 Practicum applying a variety of survey techniques to discover, map, and record archaeological sites. Basic cartographic skills for archaeologists and an introduction to GIS tools, GPS instruments, and geophysical techniques. Participants should be able to walk 3 - 4 miles over uneven terrain or make special arrangements with the instructor for transportation.
 Terms: Spr | Units: 3 | Repeatable for credit | Grading: Letter or Credit/No Credit
 Instructors: Jones, L. (PI)
+
+#### CEE 228: Methods in Urban Systems
+Introduction to quantitative tools and methods for solving problems in urban systems, including geographic information science (GIS), modeling, data analysis, and programming methodologies.
+Terms: Aut | Units: 3 | Grading: Letter or Credit/No Credit
+Instructors: Katz, G. (PI)
 
 #### EARTHSYS 144/ESS 164: Fundamentals of Geographic Information Science (GIS)
 Survey of geographic information including maps, satellite imagery, and census data, approaches to spatial data, and tools for integrating and examining spatially-explicit data. Emphasis is on fundamental concepts of geographic information science and associated technologies. Topics include geographic data structure, cartography, remotely sensed data, statistical analysis of geographic data, spatial analysis, map design, and geographic information system software. Computer lab assignments. All students are required to attend a weekly lab on Tuesdays or Thursdays from 6 pm to 9 pm.
 Terms: Aut | Units: 3-4 | UG Reqs: GER: DB-NatSci | Grading: Letter or Credit/No Credit
 Instructors: Lyons, E. (PI) ; Greaney, Y. (TA) ; Schear, N. (TA)
 
+#### ENGLISH 154: Mapping the Romantic Imagination
+In this course, we will apply spatial humanities techniques to the study of Romantic writing. In the lyric poetry, national tales and Gothic novels of the Romantic period, how did geography, both real and imagined, influence the kinds of writing that were possible? Were there kinds of writing that could only happen in certain kinds of places? Together, using a combination of GIS mapping and geo-location, we will create a digital, annotated map of the Romantic imaginative world.
+Terms: Aut | Units: 5 | Grading: Letter (ABCD/NP)
+Instructors: Algee-Hewitt, M. (PI)
+
 #### HISTORY 4/HISTORY 104: Introduction to Geospatial Humanities
 This course introduces undergraduate students to the theory and methods of the geospatial humanities, understood broadly as the application of GIS techniques and other quantitative methods in the humanistic study of social and cultural patterns in past and present settings.
 Terms: Spr | Units: 3-5 | Grading: Letter or Credit/No Credit
 Instructors: Frank, Z. (PI)
 
-#### SLAVIC 88N: UKRAINE AT A CROSSROADS
-Literally meaning ¿borderland,¿ Ukraine has embodied in-betweeness in all possible ways. In the course, we will consider the historical permeability of its territorial, linguistic, and ethnic borders as an opportunity to explore the multiple dimensions of Ukraine¿s relations its neighbors. The reading materials for the course include the earliest records of Herodotus about the prehistoric Ukrainian civilizations, the cultural legacy of Kyivan Rus¿ and baroque, as well as artistic works created during romanticism, realism, modernism, and postmodernism. In addition to learning how to interpret literary texts, we will examine the works of visual and performative arts which shape modern Ukraine and create several cartographic projects with the use of GIS tools. All required texts are in English. No knowledge of Ukrainian is required.
-Terms: Aut | Units: 3-4 | Grading: Letter or Credit/No Credit
-Instructors: Ilchuk, Y. (PI)
+#### HISTORY 207S/407K: Digital Humanities: Concepts, Tools, Problems (HISTORY 407K)
+How can digital tools benefit research in history and neighboring disciplines? The aim of this seminar is to equip students with basic skills in some of the most important digital tools currently used by scholars in the humanities and social sciences. Individual classes will focus on Geographic Information Systems (GIS), web mapping, digital network analysis, data visualization, and digital publishing formats. As part of the exercise to use digital methods, students will develop collaborative digital projects. No prior technical skills are needed for this course.
+Terms: Spr | Units: 4-5 | Grading: Letter (ABCD/NP)
+Instructors: Scholz, L. (PI)
+
+LATINAM 177: Mapping Poverty, Colonialism and Nation Building in Latin America
+This course is an introduction to the mapping of colonial and early independent Latin America, as a lens through which students may learn about the process of colonization, state building, and the legacies on those processes on poverty and underdevelopment today. Historical maps are analyzed both as GIS data sources, and as interpretative lenses through which we can glimpse the way human settlements and activity reveal social, political and economic dynamics whose legacies are still present today.
+Terms: Aut | Units: 1-2 | Grading: Credit/No Credit
+Instructors: Diaz, A. (PI)
+
 
 ## Geography
 
-#### AFRICAST 138B/ANTHRO 138B/URBANST 139: Urban Africa
-This course explores the production of urban space and the social, cultural, and political significance of cities in sub-Saharan Africa. Topics include: architecture and the built environment; urban planning and colonial public health; migration and rural-urban dynamics; youth, politics, and popular culture; violence, policing, and the privatization of public space; (in)formality in housing, transportation, and employment; class, gender, and mobility in the public sphere; urban citizenship and `right to the city¿ movements; gentrification, tourism, and the commodification of poverty; and efforts to (re)theorize postcolonial African cities. Readings are drawn from anthropology, history, urban studies, and geography. Discussion will situate struggles over urban forms and the contours of everyday life within broader trends in the political economy of the region from the late colonial period to the present.
-Terms: Spr | Units: 5 | Grading: Letter (ABCD/NP)
-
-#### AMSTUD 124A/ARTHIST 152/ENGLISH 124/HISTORY 151/POLISCI 124A: The American West
+#### AMSTUD 124A: The American West (ARTHIST 152, ENGLISH 124, HISTORY 151, POLISCI 124A)
 The American West is characterized by frontier mythology, vast distances, marked aridity, and unique political and economic characteristics. This course integrates several disciplinary perspectives into a comprehensive examination of Western North America: its history, physical geography, climate, literature, art, film, institutions, politics, demography, economy, and continuing policy challenges. Students examine themes fundamental to understanding the region: time, space, water, peoples, and boom and bust cycles.
 Terms: Spr | Units: 5 | UG Reqs: GER:DB-Hum, GER:EC-AmerCul, WAY-A-II, WAY-SI | Grading: Letter (ABCD/NP)
-Instructors: Cain, B. (PI) ; Fishkin, S. (PI) ; Freyberg, D. (PI) ; Kennedy, D. (PI)
+Instructors: Cain, B. (PI) ; Fishkin, S. (PI) ; Freyberg, D. (PI)
+
+#### AMSTUD 268C: Poverty in America (CSRE 268C, HISTORY 268C, HISTORY 368C)
+During the twentieth century, Americans launched numerous bold efforts to reduce poverty in the United States. Federal welfare policy, community-based programs, academic research, philanthropic charity, and grassroots activism committed time and resources to the cause, but poverty-- and inequality-- have persisted. Why? This seminar considers the origins, implementation, and consequences of these remedies, noting in particular how race, gender, citizenship, family composition, and geography have shaped the lives of those in poverty and the public and private responses to it.
+Terms: Win | Units: 4-5 | UG Reqs: WAY-ED, WAY-SI | Grading: Letter (ABCD/NP)
+Instructors: Dunning, C. (PI)
+
+#### ANTHRO 39: Sense of Place
+This course examines the life of places as shaped by environmental events and projects aimed towards rural or urban development. Drawing methodological insights from anthropology, cultural geography and environmental studies, we examine the forces that generate place problems for humans and nonhumans. Each encounter with place and displacement sets up a particular issue for us to grapple with: How would we address issues created by natural disasters, the seizure of land through legal means that fall under eminent domain or gentrification projects? Through a critical dialogue with interdisciplinary fields that inform the readings, the seminar aims to bring theoretical and methodological insights to inform our practical suggestions for how to address placeness and displaceness at different scales.
+Terms: Aut | Units: 3 | Grading: Letter (ABCD/NP)
+Instructors: Ebron, P. (PI)
 
 #### ANTHRO 42: Megacities
 In this course we will examine the meaning, processes, and challenges of urbanization. Through a series of targeted readings across history and geography and through the study of varied means of representation (anthropology, literature, cartography, film, etc), the class will analyze the ways in which urban forms have come into being and created, met, and/or ignored challenges such as disease, water, transport, religious and class conflict, colonialism, labor, and trade. Students will read anthropology in conjunction with other disciplines (literature, urban planning, public health, architecture, and economics) to learn the ways in which ethnographies of immigration, urban poverty, class disparity, economic development and indicators, noise, and transportation substantively augment our understandings of how people live within globalization.
-Terms: Spr | Units: 5 | Grading: Letter (ABCD/NP)
-Instructors: Jain, S. (PI)
+Terms: Win | Units: 5 | Grading: Letter (ABCD/NP)
+Instructors: Jain, S. (PI); McVarish, M. (SI)
 
-#### ANTHRO 126/URBANST 114: Urban Culture in Global Perspective
-Core course for Urban Studies majors. We will study urban space both historically and cross-culturally. Urban Studies, by definition, is an interdisciplinary field, where the methodological approaches draw upon a diverse set of analytic tools. Disciplines that occupy a prominent place in this class are geography, cultural anthropology, sociology, history, media studies, and literature. In this context, we will discuss the importance of cities around the world to the economic, cultural, and political well-being of modern societies and examine how forces such as industrialization, decentralization, and globalization affect the structure and function of cities.
-Terms: Aut | Units: 5 | UG Reqs: GER:DB-SocSci, WAY-ED, WAY-SI | Grading: Letter (ABCD/NP)
-Instructors: Hansen, T. (PI) ; Pepi, E. (PI) ; Ussakli, K. (PI) ; Pepi, E. (TA) ; Ussakli, K. (TA)
+#### ANTHRO 348B: Bodies, Technologies, and Natures in Africa (AFRICAST 249, HISTORY 349)
+This interdisciplinary course explores how modern African histories, bodies, and natures have been entangled with technological activities. Viewing Africans as experts and innovators, we consider how technologies have mediated, represented, or performed power in African societies. Topics include infrastructure, extraction, medicine, weapons, communications, sanitation, and more. Themes woven through the course include citizenship, mobility, labor, bricolage, in/formal economies, and technopolitical geographies, among others. Readings draw from history, anthropology, geography, and social/cultural theory.
+Terms: Win | Units: 4-5 | Grading: Letter (ABCD/NP)
+Instructors: Hecht, G. (PI)
 
-#### ECON 266: International Economics II
-This course covers an introduction to models of international trade and economic geography from both a theoretical and an empirical perspective.
-Terms: Win | Units: 2-5 | Grading: Letter or Credit/No Credit
-Instructors: Donaldson, D. (PI)
+#### CHINA 279: For Love of Country: National Narratives in Chinese Literature and Film (CHINA 379)
+Explores the nation as it is constructed, deconstructed, and continuously contested in novels, short stories, films, and other media from the second half of the 20th century in mainland China and Taiwan. Asks how the trope of the nation and the ideology of nationalism mediate the relationships between politics and aesthetics. Explores the nation's internal fault lines of gender, ethnicity, geography, language, and citizenship.
+Terms: Win | Units: 3-5 | Grading: Letter (ABCD/NP)
+Instructors: Lee, H. (PI)
+
+#### CLASSICS 375: Julius Caesar in Context
+We shall look at the material, cultural and intellectual, and political world of the late Roman republic through the eyes of Caesar. Topics include: engineering, the city of Rome, geography, ethnography, archaeology in Gaul, Latin linguistics, poetry and patronage, the calendar, and the idea of Romanitas. Historians, archaeologists, and philologists are all equally welcome.
+Terms: Aut | Units: 4-5 | Grading: Letter (ABCD/NP)
+Instructors: Krebs, C. (PI)
+
+#### ECON 266: International Trade I
+This course covers an introduction to models of international trade and economic geography from both a theoretical and an empirical perspective. Prerequisites: Econ 202, 203, 204, 210, 211, 212, 270, 271, 272.
+Terms: Aut | Units: 2-5 | Grading: Letter or Credit/No Credit
+Instructors: Bombardini, M. (PI)
+
+#### ENGLISH 154: Mapping the Romantic Imagination
+In this course, we will apply spatial humanities techniques to the study of Romantic writing. In the lyric poetry, national tales and Gothic novels of the Romantic period, how did geography, both real and imagined, influence the kinds of writing that were possible? Were there kinds of writing that could only happen in certain kinds of places? Together, using a combination of GIS mapping and geo-location, we will create a digital, annotated map of the Romantic imaginative world.
+Terms: Aut | Units: 5 | Grading: Letter (ABCD/NP)
+Instructors: Algee-Hewitt, M. (PI)
 
 #### HISTORY 106A: Global Human Geography: Asia and Africa
 Global patterns of demography, economic and social development, geopolitics, and cultural differentiation, covering E. Asia, S. Asia, S.E. Asia, Central Asia, N. Africa, and sub-Saharan Africa. Use of maps to depict geographical patterns and processes.
@@ -81,292 +108,69 @@ Instructors: Lewis, M. (PI)
 
 #### HISTORY 106B: Global Human Geography: Europe and Americas
 Patterns of demography, economic and social development, geopolitics, and cultural differentiation. Use of maps to depict geographical patterns and processes.
-Terms: Aut | Units: 5 | UG Reqs: GER:DB-SocSci, GER:EC-GlobalCom, WAY-SI | Grading: Letter or Credit/No Credit
-Instructors: Awan, M. (PI) ; Lewis, M. (PI) ; Awan, M. (TA) ; Brandao Barleta, L. (TA)
-
-#### HISTORY 309F: Historical Geography Colloquium: Maps in the Early Modern World
-The significance of cartographic enterprise across the early modern world. Political, economic, and epistemological imperatives that drove the proliferation of nautical charts, domain surveys, city plans, atlases, and globes; the types of work such artifacts performed for their patrons, viewers, and subjects. Contributions of indigenous knowledge to imperial maps; the career of the map in commerce, surveillance, diplomacy, conquest, and indoctrination. Sources include recent research from Asia, Europe, and the Americas.
-Terms: Spr | Units: 4-5 | Grading: Letter (ABCD/NP)
-Instructors: Wigen, K. (PI)
-
-#### MED 229: Introduction to Global Health
-Provides an overview of global health and how it is similar to and different from public health and tropical medicine. Topics include the evolution, economics, politics of global health, major players in global health, and issues of geography, politics, humanitarianism, human rights, science, research, culture and disease.
-Terms: Spr | Units: 1 | Grading: Medical Option (Med-Ltr-CR/NC)
-Instructors: Spira, A. (PI)
-
-#### OSPFLOR 27: Gardens of Florence
-This course will examine the cultural geography of Florence's social spaces as sites for the development of the personal, social, and political experiences of an Italian cultural identity. Focusing on literary forms, landscape art, and garden history primarily in Florence and its environs, we will consider the roles of landscape and garden design and the ways that these arts represent the cultural and social ideology of their times. Florence is the home to a range of magnificent gardens, including the Giardino Bardini, Giardino di Boboli, Giardino delle Rosa, and the Giardino di Villa Gamberaia. To understand fully Italy's historic gardens it is important to appreciate both the political and social aspirations of the garden makers. How is the reality of landscape design related to the imaginary structures of aesthetic sensibility? How do both real landscapes and imaginary forms interact with social structures and economic models? These are the kinds of questions that we will pose as we explore the gardens, country estates, and city gardens of Florence to understand both their formal structures and the social aesthetics of their eras. It will also introduce the work of "social geography," especially as it relates to the study of landscape design, gardens, and the social use of public spaces in the Florence and Italian context.
-Terms: Spr | Units: 1-2 | Grading: Satisfactory/No Credit
-Instructors: Markus, H. (PI)
-
-#### OSPSANTG 58: Living Chile: A Land of Extremes
-Physical, ecological, and human geography of Chile. Perceptions of the Chilean territory and technologies of study. Flora, fauna, and human adaptations to regional environments. Guest lectures; field trips; workshops.
-Terms: Aut, Spr, Sum | Units: 5 | UG Reqs: GER:DB-EngrAppSci | Grading: Letter (ABCD/NP)
+Terms: Win | Units: 5 | UG Reqs: GER:DB-SocSci, GER:EC-GlobalCom, WAY-SI | Grading: Letter or Credit/No Credit
+Instructors: Lewis, M. (PI) ; Perez, J. (PI) ; Perez, J. (TA)
 
 #### POLISCI 344: Politics and Geography
 The role of geography in topics in political economy, including development, political representation, voting, redistribution, regional autonomy movements, fiscal competition, and federalism.
-Terms: Aut | Units: 3-5 | Grading: Letter or Credit/No Credit
-Instructors: Rodden, J. (PI)
+Terms: Win | Units: 3-5 | Grading: Letter or Credit/No Credit
+Instructors: Nall, C. (PI) ; Rodden, J. (PI)
 
-#### PUBLPOL 174/URBANST 173: The Urban Economy
+#### PUBLPOL 174: The Urban Economy (URBANST 173)
 Applies the principles of economic analysis to historical and contemporary urban and regional development issues and policies. Explores themes of urban economic geography, location decision-making by firms and individuals, urban land and housing markets, and local government finance. Critically evaluates historical and contemporary government policies regulating urban land use, housing, employment development, and transportation. Prerequisite: Econ 1A or permission of instructor.
-Terms: Spr | Units: 4 | UG Reqs: WAY-SI | Grading: Letter or Credit/No Credit
+Terms: Win | Units: 4 | UG Reqs: WAY-SI | Grading: Letter or Credit/No Credit
+Instructors: Wolfe, M. (PI)
 
 #### PWR 1ECA: Writing & Rhetoric 1: Where I'm From: The Rhetorics of Mapping and Human Geography
-Rhetorical and contextual analysis of readings; research; and argument. Focus is on development of a substantive research-based argument using multiple sources. Individual conferences with instructor. See https://undergrad.stanford.edu/programs/pwr/courses/pwr-1.
-Terms: Win | Units: 4 | UG Reqs: Writing 1 | Grading: Letter (ABCD/NP)
+Rhetorical analysis of readings, research, and argument. Focus is on development of a substantive research-based argument using multiple sources. Individual conferences with instructor. For more information about PWR 1, see https://undergrad.stanford.edu/programs/pwr/courses/pwr-1. For full course descriptions, see https://vcapwr-catalog.stanford.edu. Enrollment is handled by the PWR office.
+Terms: Spr | Units: 4 | UG Reqs: Writing 1 | Grading: Letter (ABCD/NP)
 Instructors: Cirillo-McCarthy, E. (PI)
 
 ## Mapping
 
-#### CLASSICS 24N: What is a Map?
-Exploration of the nature of maps via an overview of premodern mapping practices, combining theory and history of maps. Hands-on research involving Stanford's rare and historical maps, and chance to create own maps.
-Terms: Win | Units: 4 | UG Reqs: WAY-A-II | Grading: Letter (ABCD/NP)
-Instructors: Parker, G. (PI)
+#### ARCHLGY 47: Introduction to Digital Archaeology (CLASSICS 57)
+While the tools of Digital Archaeology frequently change, using digital tools has been part of the discipline for decades. These tools and approaches provide new forms of research, visualization, and outreach to archaeological investigations. This course is designed to introduce students of archaeology to the digital research methods useful to the discipline, and provide them with hands-on experience in three types of digital method: digital mapping, visualization, and 3D modeling. The goal of the course is for students to learn about the state of digital archaeology, to become familiar with common methods, and become aware of the resources available for research.
+Terms: Spr | Units: 4 | Grading: Letter (ABCD/NP)
+Instructors: Weiland, J. (PI)
 
-#### GS 105: Introduction to Field Methods
-Two-week, field-based course in the White Mountains of eastern California. Introduction to the techniques for geologic mapping and geologic investigation in the field: systematic observations and data collection for lithologic columns and structural cross-sections. Interpretation of field relationships and data to determine the stratigraphic and deformational history of the region. Prerequisite: GS 1, recommended: GS 102.
-Terms: Aut, Spr | Units: 3 | UG Reqs: WAY-SMA | Grading: Letter or Credit/No Credit
-Instructors: Grove, M. (PI)
-
-#### HISTORY 95N: Maps and the Modern Imagination
-Preference to freshmen. Focus is on cutting-edge research. Topics: the challenge of grasping the globe as a whole; geography's roots in empire; maps as propaganda and as commodities; the cultural production of scale; and the cartography of imaginery worlds.Sources include resources in the Green Library Special Collections and in the Stanford Spatial History Lab.
-Terms: Aut | Units: 4-5 | UG Reqs: GER:DB-SocSci, WAY-SI | Grading: Letter or Credit/No Credit
-Instructors: Wigen, K. (PI)
-
-#### ME 215: From Maps to Meaning
-One of the oldest visual tools created by humans to make sense of the complexities of our world, maps are unique in their ability to synthesize data, convey meaning through spatial logic, and deliver information at high resolution. They are also incredible tools for communication, data sorting and insight finding.n n This is an intensive, hands-on course that uses mapping techniques to navigate the intersection of data and design. Students will tackle three main projects and several shorter assignments over 10 weeks. Perfect attendance and completion of projects is absolutely mandatory. You will:n -collect, sort and organize quantitative and qualitative datan -create maps to synthesize complex informationn -use mapping as a tool to work on design problemsn -explore biases in map-makingn -create design interventions based on data and mapsn n While no specific prior experience is necessary, this class is for you if you are comfortable with the ambiguity of learning new skills on and off the computer, if you geek out about design and data, and if you are not intimidated by the idea of creating analog and digital maps. Admission by application. See dschool.stanford.edu/classes for more information.
-Terms: Win | Units: 3 | Grading: Satisfactory/No Credit
-Instructors: Carter, C. (PI) ; Ha, T. (PI)
-
-## Spatial
-
-#### ARCHLGY 342: Archaeology of Roman Slavery (CLASSICS 372)
-(Formerly CLASSART 342.) The archaeological study of Roman slavery has been severely limited by a focus on identifying the traces of slaves in the material record. This seminar explores a range of newer and more broadly conceived approaches to understanding slavery and slaves' experiences, including spatial analysis, bioarchaeology, epigraphy, visual imagery, and comparative archaeologies of slavery. Students will learn about the current state of research, work with different kinds of evidence and a range of methodologies, and develop original research projects of their own.
-Terms: Win | Units: 4-5 | Grading: Letter (ABCD/NP)
-Instructors: Trimble, J. (PI)
-
-#### ESS 214: Introduction to geostatistics and modeling of spatial uncertainty
-Introduction of fundamental geostatistical tools for modeling spatial variability and uncertainty, and mapping of environmental attributes. Additional topics include sampling design and incorporation of different types of information (continuous, categorical) in prediction. Assignments consist of small problems to familiarize students with theoretical concepts, and applications dealing with the analysis and interpretation of various data sets (soil, water pollution, atmospheric constituents, remote sensing) primarily using Matlab. No prior programming experience is required. Open to graduates. Open to undergraduates with consent from the instructor. 3-credit option includes midterm/final or student-developed project. 4-credit option requires both. Prerequisite: College-level introductory statistics.
-Terms: Spr | Units: 3-4 | Grading: Letter (ABCD/NP)
-
-#### POLISCI 350D: Political Methodology IV: Advanced Topics
-Covers advanced statistical tools that are useful for empirical research in political science. Possible topics include missing data, survey sampling and experimental designs for field research, machine learning, text mining, clustering, Bayesian methods, spatial statistics, and web scraping.
-Terms: Aut | Units: 5 | Grading: Letter or Credit/No Credit
-Instructors: Rivers, D. (PI)
-
-#### STATS 253: Analysis of Spatial and Temporal Data
-A unified treatment of methods for spatial data, time series, and other correlated data from the perspective of regression with correlated errors. Two main paradigms for dealing with autocorrelation: covariance modeling (kriging) and autoregressive processes. Bayesian methods. Prerequisites: applied linear algebra ( MATH 103 or equivalent), statistical estimation ( STATS 200 or CS 229), and linear regression ( STATS 203 or equivalent).
-Terms: Sum | Units: 3 | Grading: Letter or Credit/No Credit
-
-***
-# Courses taught during academic year 2014/2015  
-
-## GIS
-
-#### ANTHRO 98B/ANTHRO 298B/ARCHLGY 98B: Digital Methods in Archaeology
-
-This is a course on digital technologies in archaeology used for documentation, visualization, and analysis of archaeological spaces and objects. Emphasizes hands-on approaches to image manipulation, virtual reality, GIS, CAD, and photogrammetry modeling methods.
-Terms: Win | Units: 3-5 | UG Reqs: GER:DB-EngrAppSci | Grading: Letter or Credit/No Credit
-Instructors: Rick, J. (PI)
-
-#### ARCHLGY 125: Archaeologial Field Survey Methods
-Practicum applying a variety of survey techniques to discover, map, and record archaeological sites. Basic cartographic skills for archaeologists and an introduction to GIS tools, GPS instruments, and geophysical techniques. Participants should be able to walk 3 - 4 miles over uneven terrain or make special arrangements with the instructor for transportation.
-Terms: Spr | Units: 3 | Repeatable for credit | Grading: Letter or Credit/No Credit
-Instructors: Jones, L. (PI)
-
-#### EARTHSYS 144/EESS 164: Fundamentals of Geographic Information Science (GIS) 
-Survey of geographic information including maps, satellite imagery, and census data, approaches to spatial data, and tools for integrating and examining spatially-explicit data. Emphasis is on fundamental concepts of geographic information science and associated technologies. Topics include geographic data structure, cartography, remotely sensed data, statistical analysis of geographic data, spatial analysis, map design, and geographic information system software. Computer lab assignments.
-Terms: Aut | Units: 3-4 | UG Reqs: GER: DB-NatSci | Grading: Letter or Credit/No Credit
-Instructors: Eichelberger, B. (PI) ; Thomas, N. (PI) ; Firme, R. (TA) ; Lin, H. (TA) 
-
-#### EARTHSYS 181/EARTHSYS 281/EESS 181/EESS 281/URBANST 181: Urban Agriculture in the Developing World
-In this advanced undergraduate course, students will learn about some of the key social and environmental challenges faced by cities in the developing world, and the current and potential role that urban agriculture plays in meeting (or exacerbating) those challenges. This is a service-learning course, and student teams will have the opportunity to partner with real partner organizations in a major developing world city to define and execute a project focused on urban development, and the current or potential role of urban agriculture. Service-learning projects will employ primarily the student's analytical skills such as synthesis of existing research findings, interdisciplinary experimental design, quantitative data analysis and visualization, GIS, and qualitative data collection through interviews and textual analysis. Previous coursework in the aforementioned analytical skills is preferred, but not required. Admission is by application.
-Terms: Aut | Units: 3-4 | Grading: Letter or Credit/No Credit
-Instructors: Gibbs-Plessl, T. (PI) ; Matson, P. (PI) ; Rymer, B. (TA)
-
-#### HISTORY 401A: Spatial History: Concepts, Methods, Problems
-Technical training in GIS, with modules taught by Stanford Spatial History Lab staff; conceptual work in the use of these techniques in spatial historical analysis. Students develop their own spatial history projects and produce beta versions of dynamic visualizations.
-Terms: Spr | Units: 4-5 | Grading: Letter (ABCD/NP)
-Instructors: Frank, Z. (PI)
-
-
-## Geography
-
-#### AFRICAAM 158/FEMGEN 158: Black Queer Theory
-This course takes a multifaceted approach to black queer theory, not only taking up black theories of gender and queer sexuality, but queer theoretical interrogations of blackness and race. The course will also examine some of the important ways that black queer theory reads and is intersected with issues like affect, epistemology, space and geography, power and subjectivity, religion, economy, the body, and the law, asking questions like: How have scholars critiqued the very language of queer and the ways it works as a signifier of white marginality? What are the different spaces we can find queer black relationality, eroticism, and kinship? How do we negotiate issues like trans*misogyny or tensions around gender and sexuality in the context of race? Throughout the course, students will become versed in foundational and emerging black queer theory as we engage scholars like Sharon Holland, Cathy Cohen, Hortense Spillers, Marlon B. Ross, Aliyyah Abdur-Rahman, Barbara Smith, Roderick Ferguson, Robert Reid-Pharr, E. Patrick Johnson, and many others. Students will also gain practice applying black queer theory as an interpretive lens for contemporary social issues and cultural production including film, music, art, and performance.
-Terms: Win | Units: 5 | Grading: Letter or Credit/No Credit
-Instructors: Caruthers, J. (PI)
-
-#### AFRICAST 138B/ANTHRO 138B/URBANST 139: Urban Africa
-This course explores the production of urban space and the social, cultural, and political significance of cities in sub-Saharan Africa. Topics include: architecture and the built environment; urban planning and colonial public health; migration and rural-urban dynamics; youth, politics, and popular culture; violence, policing, and the privatization of public space; (in)formality in housing, transportation, and employment; class, gender, and mobility in the public sphere; urban citizenship and `right to the city¿ movements; gentrification, tourism, and the commodification of poverty; and efforts to (re)theorize postcolonial African cities. Readings are drawn from anthropology, history, urban studies, and geography. Discussion will situate struggles over urban forms and the contours of everyday life within broader trends in the political economy of the region from the late colonial period to the present.
-Terms: Spr | Units: 5 | Grading: Letter (ABCD/NP)
-Instructors: West, A. (PI)
-
-#### AMSTUD 124A/ARTHIST 152/ENGLISH 124/HISTORY 151/POLISCI 124A: The American West
-The American West is characterized by frontier mythology, vast distances, marked aridity, and unique political and economic characteristics. This course integrates several disciplinary perspectives into a comprehensive examination of Western North America: its history, physical geography, climate, literature, art, film, institutions, politics, demography, economy, and continuing policy challenges. Students examine themes fundamental to understanding the region: time, space, water, peoples, and boom and bust cycles.
-Terms: Spr | Units: 5 | UG Reqs: GER:DB-Hum, GER:EC-AmerCul, WAY-A-II, WAY-SI | Grading: Letter (ABCD/NP)
-Instructors: Cain, B. (PI) ; Fishkin, S. (PI) ; Freyberg, D. (PI) ; Kennedy, D. (PI) ; Nemerov, A. (PI) fewer instructors for 
-
-#### ANTHRO 42: Megacities
-In this course we will examine the meaning, processes, and challenges of urbanization. Through a series of targeted readings across history and geography and through the study of varied means of representation (anthropology, literature, cartography, film, etc), the class will analyze the ways in which urban forms have come into being and created, met, and/or ignored challenges such as disease, water, transport, religious and class conflict, colonialism, labor, and trade. Students will read anthropology in conjunction with other disciplines (literature, urban planning, public health, architecture, and economics) to learn the ways in which ethnographies of immigration, urban poverty, class disparity, economic development and indicators, noise, and transportation substantively augment our understandings of how people live within globalization.
-Terms: Win | Units: 5 | Grading: Letter (ABCD/NP)
-Instructors: Jain, S. (PI)
-
-#### ANTHRO 126/URBANST 114: Urban Culture in Global Perspective
-Core course for Urban Studies majors. We will study urban space both historically and cross-culturally. Urban Studies, by definition, is an interdisciplinary field, where the methodological approaches draw upon a diverse set of analytic tools. Disciplines that occupy a prominent place in this class are geography, cultural anthropology, sociology, history, media studies, and literature. In this context, we will discuss the importance of cities around the world to the economic, cultural, and political well-being of modern societies and examine how forces such as industrialization, decentralization, and globalization affect the structure and function of cities.
-Terms: Aut | Units: 5 | UG Reqs: GER:DB-SocSci, WAY-ED, WAY-SI | Grading: Letter (ABCD/NP)
-Instructors: Hansen, T. (PI)
-
-#### ANTHRO 141B: The Anthropology of Bits and Bytes: Digital Media in the Developing World
-Recent historical developments, including the widespread adoption of the mobile phone across Africa and Southeast Asia, the ¿Arab Spring,¿ and the rise of technology sectors in cities such as Nairobi, Bangalore, and Accra, have turned digital technology in the ¿global South¿ into a topic of growing popular interest and increasing scholarly concern. This course attempts to make sense of these developments by interrogating diverse theoretical approaches to digital technology and assessing what these approaches reveal and obscure in specific cases of technology adoption in Africa, Asia, and Latin America. Students will be introduced to an overview of scholarly approaches to digital technology from anthropology, science and technology studies (STS), critical theory, geography, and communications studies. We will analyze the relative utility of these explanations through case studies of specific instances of technological production and/or use. These case studies will be drawn from both secondary texts and primary materials such as social media, digital maps, videos, blogs, and news reports. At the same time, we will examine how digital discourses and practices both draw upon and inform broader issues of context-specific political and cultural importance. Major topics to be discussed include ¿development¿ and the State, civil society and the ¿public sphere,¿ youth culture, gender politics, mobility, and globalization. Students will come away from the course with a strong understanding of the major issues at stake in the increasing digitalization of the ¿global South,¿ and the socio-cultural, political, and technical debates that frame them
-Terms: Aut | Units: 5 | Grading: Letter (ABCD/NP)
-Instructors: Poggiali, L. (PI)
-
-#### ANTHRO 156B: Environment, Nature and Race
-Environment, nature and race: Politics of belonging, exclusion, and embodiment. Scientific and popular understandings of race and ethnicity remain deeply entangled with ideas about "nature" and the "environment". This course will introduce students to some of the many ways that nature, environment, and race have been and remain intertwined, for better or for worse. What does it mean to claim race is "natural"? To what extent is race shaped by environment and vice versa? How are the politics of race linked to the politics of environmentalism? The class will begin with a brief treatment of current critical consensus on the biology of race and the cultural politics of race and nature, and move on to a theoretical discussion of how humans and "nature" interact. From there, the course moves into historical and ethnographic examples of the politics of race and the environment: the racialized and racializing character of particular environments; the ways that racial politics shape natural environments; and the politics of exclusion and belonging in environmental movements. Case studies will be both rural and urban and draw from anthropology, geography, history, and biology. The course will end by considering the recent resurgence of the race concept in biology.
-Terms: Spr | Units: 3-5 | Grading: Letter or Credit/No Credit
-Instructors: Gardiner, M. (PI)
-
-#### ANTHRO 170/ANTHRO 270/EARTHSYS 172: Australian Ecosystems: Human Dimensions and Environmental Dynamics
-This cross-disciplinary course surveys the history and prehistory of human ecological dynamics in Australia, drawing on geology, climatology, archaeology, geography, ecology and anthropology to understand the mutual dynamic relationships between the continent and its inhabitants. Topics include anthropogenic fire and fire ecology, animal extinctions, aridity and climate variability, colonization and spread of Homo sapiens, invasive species interactions, changes in human subsistence and mobility throughout the Pleistocene and Holocene as read through the archaeological record, the totemic geography and social organization of Aboriginal people at the time of European contact, the ecological and geographical aspects of the "Dreamtime", and contemporary issues of policy relative to Aboriginal land tenure and management.
-Terms: Win | Units: 3 | UG Reqs: WAY-SI | Grading: Letter (ABCD/NP)
-Instructors: Bird, R. (PI)
-
-#### CSRE 156J/ANTHRO 156B: Environment, Nature and Race
-Environment, nature and race: Politics of belonging, exclusion, and embodiment. Scientific and popular understandings of race and ethnicity remain deeply entangled with ideas about "nature" and the "environment". This course will introduce students to some of the many ways that nature, environment, and race have been and remain intertwined, for better or for worse. What does it mean to claim race is "natural"? To what extent is race shaped by environment and vice versa? How are the politics of race linked to the politics of environmentalism? The class will begin with a brief treatment of current critical consensus on the biology of race and the cultural politics of race and nature, and move on to a theoretical discussion of how humans and "nature" interact. From there, the course moves into historical and ethnographic examples of the politics of race and the environment: the racialized and racializing character of particular environments; the ways that racial politics shape natural environments; and the politics of exclusion and belonging in environmental movements. Case studies will be both rural and urban and draw from anthropology, geography, history, and biology. The course will end by considering the recent resurgence of the race concept in biology.
-Terms: Spr | Units: 3-5 | Grading: Letter or Credit/No Credit
-Instructors: Gardiner, M. (PI)
-
-#### ECON 266: International Economics II
-This course covers an introduction to models of international trade and economic geography from both a theoretical and an empirical perspective.
-Terms: Win | Units: 2-5 | Grading: Letter or Credit/No Credit
-Instructors: Donaldson, D. (PI)
-
-#### ENGLISH 115A: Shakespeare and Modern Critical Developments
-Approaches include gender studies and feminism, race studies, Shakespeare's geographies in relation to the field of cultural geography, and the importance of religion in the period.
-Terms: Spr | Units: 5 | UG Reqs: GER:DB-Hum, WAY-A-II | Grading: Letter (ABCD/NP)
-Instructors: Parker, P. (PI)
-
-#### HISTORY 106A: Global Human Geography: Asia and Africa
-Global patterns of demography, economic and social development, geopolitics, and cultural differentiation, covering E. Asia, S. Asia, S.E. Asia, Central Asia, N. Africa, and sub-Saharan Africa. Use of maps to depict geographical patterns and processes.
-Terms: Spr | Units: 5 | UG Reqs: GER:DB-SocSci, GER:EC-GlobalCom, WAY-SI | Grading: Letter or Credit/No Credit
-Instructors: Lewis, M. (PI) ; Levy, N. (TA)
-
-#### HISTORY 106B: Global Human Geography: Europe and Americas
-Patterns of demography, economic and social development, geopolitics, and cultural differentiation. Use of maps to depict geographical patterns and processes.
-Terms: Aut | Units: 5 | UG Reqs: GER:DB-SocSci, GER:EC-GlobalCom, WAY-SI | Grading: Letter or Credit/No Credit
-Instructors: Lewis, M. (PI) ; Dovern, L. (TA) ; Levy, N. (TA)
-
-#### ITALIAN 129: Modern Italian Culture: Literary Landscapes
-Italian national and cultural identity in the 19th and 20th centuries. Topics vary from year to year. In 2015, the course will address the importance of landscape, geography, and regional traditions and languages in modern Italian history and literature. Taught in Italian. Prerequisites: ITALLANG 22A or equivalent (2 years of Italian).
-Terms: Spr | Units: 4 | UG Reqs: GER:DB-Hum, WAY-A-II | Grading: Letter or Credit/No Credit
-Instructors: Pierson, I. (TA)
-
-#### MED 229: Introduction to Global Health
-Provides an overview of global health and how it is similar to and different from public health and tropical medicine. Topics include the evolution, economics, politics of global health, major players in global health, and issues of geography, politics, humanitarianism, human rights, science, research, culture and disease.
-Terms: Spr | Units: 1 | Grading: Medical Option (Med-Ltr-CR/NC)
-
-#### OSPBER 25: Architecture, Memory, Commemoration
-Exploration of questions about architectural form together with a sense of place in Berlin and surrounding regional cities. Interdisciplinary approach to the study of urbanism and memory through the concerns of cultural geography, anthropology, history, fiction and films. Trips to sites to explore how memory is visualized in the built environment. Themes of the course include: "About Form," "Mapping the City," and "Heritage and Commemoration."
-Terms: Aut | Units: 5 | UG Reqs: GER:DB-Hum | Grading: Letter (ABCD/NP)
-Instructors: Ebron, P. (PI)
-
-#### OSPBER 46: Gardens of Earthly Delight: Berlin's Culture of Landscape and Public Space
-This course examines the cultural geography of Germany¿s social spaces as sites for the development of the personal, social, and political experiences of a German cultural identity. Focusing on literary forms, landscape art, and garden history in Berlin and its environs, we consider the roles of landscape and garden design and how they represent the cultural and social ideology of their times. Activities include readings and field trips. Additional writing for students who choose the 2 unit option.
-Terms: Spr | Units: 1-2 | Grading: Satisfactory/No Credit
-Instructors: Moya, P. (PI) ; Saldivar, R. (PI)
-
-
-#### OSPFLOR 25: Italian Food: A Cultural History
-Why is Italian cooking so popular? And why does it play such a key role in the national identity?nObserving a meal, we can explain everything, or almost, about people. Eating is a universal experience. However, not only we do not eat the same things but also the ways, places and times we eat change according to traditions and habits. The culture of food is deeply embedded in history.nThis course will use documentary sources as well as art, literature, cultural studies, statistical data, and movies to describe how meals can paint a fresco of the history of Italians and their food.nEconomy, culture, class, gender, race, geography, international relations: all have a part in depicting the outline of this history of Italian food in the last 150 years. And all raise questions: how can food mark social differences, set cultural boundaries, raise ethical and religious controversies, involve agribusiness and politics, question our own identities? A tasty travel to the very roots of our human sociality.
-Terms: Spr | Units: 5 | UG Reqs: GER:DB-SocSci, GER:EC-GlobalCom, WAY-SI | Grading: Letter (ABCD/NP)
-Instructors: Scarpellini, E. (PI)
-
-#### OSPSANTG 58: Living Chile: A Land of Extremes
-Physical, ecological, and human geography of Chile. Perceptions of the Chilean territory and technologies of study. Flora, fauna, and human adaptations to regional environments. Guest lectures; field trips; workshops.
-Terms: Aut, Spr, Sum | Units: 5 | UG Reqs: GER:DB-EngrAppSci | Grading: Letter (ABCD/NP)
-
-#### POLISCI 245R: Politics in Modern Iran
-Modern Iran has been a smithy for political movements, ideologies, and types of states. Movements include nationalism, constitutionalism, Marxism, Islamic fundamentalism, social democracy, Islamic liberalism, and fascism. Forms of government include Oriental despotism, authoritarianism, Islamic theocracy, and liberal democracy. These varieties have appeared in Iran in an iteration shaped by history, geography, proximity to oil and the Soviet Union, and the hegemony of Islamic culture.
-Terms: Win | Units: 5 | UG Reqs: GER:DB-SocSci, GER:EC-GlobalCom, WAY-SI | Grading: Letter or Credit/No Credit
-Instructors: Milani, A. (PI)
-
-## Mapping
-
-#### BIO 128/EARTHSYS 129: Geographic Impacts of Global Change: Mapping the Stories
-Forces of global change (eg., climate disruption, biodiversity loss, disease) impart wide-ranging political, socioeconomic, and ecological impacts, creating an urgent need for science communication. Students will collect data for a region of the US using sources ranging from academic journals to popular media and create an interactive Story Map ( http://stanford.maps.arcgis.com/apps/StorytellingTextLegend/index.html?appid=dafe2393fd2e4acc8b0a4e6e71d0b6d5) that merges the scientific and human dimensions of global change. Students will interview stakeholders as part of a community-engaged learning experience and present the Map to national policy-makers. Our 2014 Map is being used by the CA Office of Planning & Research.
-Terms: Spr | Units: 4 | Grading: Letter or Credit/No Credit
-Instructors: Hadly, E. (PI) ; Mychajliw, A. (PI) ; Truebe, S. (PI)
+#### ARTSINST 182: Activating Urban Spaces: Materializing Hidden Narratives in the Urban Environment (URBANST 182)
+This course will investigate the organization and shaping of public space from the perspective of story and narrative. The course will consider how authorized narratives feature in the built environment and in the social spaces and usage of the city and how unauthorized, sometimes contentious narratives lurk beneath the surface and persist on the "skin" of the city. It will investigate the role of artists and the arts in "mapping" or surfacing alternative stories, concepts and imaginations of how the city is or can be. Inspired by the writings of Michel DeCerteau and Italo Calvino, this class explores the role of narrative in the city and the imagination from the perspective of cultural memory, lived experience, usage of space and organization of the built infrastructure. It offers an alternative approach to thinking about cities, how they are formed and how they function. This class will utilize and combine active field research methods with creative practice. Locations for our field research and excursions will include areas around Stanford and the Bay Area. The class will function as a hybrid seminar and collaborative studio workspace supporting students interested in applying creative practices to field research to develop methods for materializing narratives in various forms of public performance or place-specific art. Students will develop research for projects tailored to a particular location of their choosing and will explore the idea of the 'hidden city' its histories and its communities.
 
 #### CEE 32Q: Place: Making Space Now
 This seminar argues that architeccts are ultimately "placemakers," and questions what that means in the contemporary world. Part I investigates the meaning of the word "place." Additional background for understanding contemporary place making will include a critique of the history of modern place-making through an examination of modern form. Part II examines two traditional notions of place by scale: from "home" to "the city." What elements give these conceptions of space a sense of place? To answer this question, themes such as memory, mapping, and boundary, among others, will be investigated. part III presents challenges to the traditional notions of place discussed in Part II. Topics addressed include: What does it mean to be "out of place"? What sense of place does a nomad have, and how is this represented? What are the "non-places" and how can architects design for these spaces? Part IV addresses the need to re-conceptualize contemporary space. The role of digital and cyber technologies, the construction of locality in a global world, and the in-between places that result from a world in flux are topics discussed in this section of the seminar. nLearning goals: Specific goals include clsoe reading of texts, understanding of philosophical thinking and writing, argument under uncertainty, and developed concepts of place, space and architecture.
-Terms: Win | Units: 3 | UG Reqs: WAY-A-II | Grading: Letter or Credit/No Credit
-Instructors: Barton, J. (PI) ; Beischer, T. (PI)
-
-#### CEE 195/GES 111: Fundamentals of Structural Geology
-Techniques for mapping using GPS and differential geometry to characterize structures; dimensional analysis and scaling relations; kinematics of deformation and flow; measurement and analysis of stress; elastic deformation and properties of rock; brittle deformation including fracture and faulting; linear viscous flow including folding and magma dynamics; model development and methodology. Models of tectonic processes are constructed and solutions visualized using MATLAB. Prerequisites: GES 1, MATH 51
-Terms: Win | Units: 3 | UG Reqs: WAY-FR, WAY-SMA | Grading: Letter or Credit/No Credit
-Instructors: Pollard, D. (PI)
-
-#### CLASSICS 24N: What is a Map?
-Exploration of the nature of maps via an overview of premodern mapping practices, combining theory and history of maps. Hands-on research involving Stanford's rare and historical maps, and chance to create own maps.
-Terms: Win | Units: 4 | UG Reqs: WAY-A-II | Grading: Letter (ABCD/NP)
-Instructors: Parker, G. (PI)
+Terms: Aut | Units: 3 | UG Reqs: WAY-A-II | Grading: Letter or Credit/No Credit
+Instructors: Beischer, T. (PI) ; Vivanco Antolin, E. (PI)
 
 #### COMM 274D: Public Affairs Data Journalism II
 Learn how to find, create and analyze data to tell news stories with public service impact. Uses relational databases, advanced queries, basic statistics, and mapping to analyze data for storytelling. Assignments may include stories, blog posts, and data visualizations, with at least one in-depth project based on data analysis. Prerequisites: COMM 273D or Journalism M.A. student.
 Terms: Win | Units: 4 | Repeatable for credit | Grading: Letter or Credit/No Credit
 Instructors: Phillips, C. (PI)
 
-#### GES 105: Introduction to Field Methods
-Two-week, field-based course in the White Mountains of eastern California. Introduction to the techniques for geologic mapping and geologic investigation in the field: systematic observations and data collection for lithologic columns and structural cross-sections. Interpretation of field relationships and data to determine the stratigraphic and deformational history of the region. Prerequisite: GES 1, recommended: GES 102.
+#### ENERGY 240: Data science for geoscience (GS 240)
+Overview of some of the most important data science methods (statistics, machine learning & computer vision) relevant for geological sciences, as well as other fields in the Earth Sciences. Areas covered are: extreme value statistics for predicting rare events; compositional data analysis for geochemistry; multivariate analysis for designing data & computer experiments; probabilistic aggregation of evidence for spatial mapping; functional data analysis for multivariate environmental datasets, spatial regression and modeling spatial uncertainty with covariate information (geostatistics). Identification & learning of geo-objects with computer vision. Focus on practicality rather than theory. Matlab exercises on realistic data problems.
+Terms: Win | Units: 3 | Grading: Letter (ABCD/NP)
+Instructors: Caers, J. (PI) ; Mendes, J. (TA)
+
+#### GS 105: Introduction to Field Methods
+Two-week, field-based course in the White Mountains of eastern California. Introduction to the techniques for geologic mapping and geologic investigation in the field: systematic observations and data collection for lithologic columns and structural cross-sections. Interpretation of field relationships and data to determine the stratigraphic and deformational history of the region. Prerequisite: GS 1, recommended: GS 102.
 Terms: Aut, Spr | Units: 3 | UG Reqs: WAY-SMA | Grading: Letter or Credit/No Credit
-Instructors: Cina, S. (PI) ; Grove, M. (PI)
+Instructors: Grove, M. (PI)
+
+#### SINY 140: Mapping, time, space, and culture
+New York, the financial and cultural capitol of the nation, provides an extraordinary laboratory for exploring the art and science of information representation. The proposed course aims to engage students in a broad swath of art and culture, contextualized by studying the sociopolitical urban landscape.
+Terms: Win | Units: 4 | UG Reqs: WAY-A-II, WAY-CE | Grading: Letter or Credit/No Credit
+Instructors: Berger, J. (PI)
+
 
 ## Spatial
 
-#### ENERGY 160/ENERGY 260: Modeling Uncertainty in the Earth Sciences
+#### HISTORY 95N: Maps in the Modern World
+Preference to freshmen. Focus is on cutting-edge research. Topics: the challenge of grasping the globe as a whole; geography's roots in empire; maps as propaganda and as commodities; the cultural production of scale; and the cartography of imaginery worlds.Sources include resources in the Green Library Special Collections and in the Stanford Spatial History Lab.
+Terms: Spr | Units: 4-5 | UG Reqs: GER:DB-SocSci, WAY-SI | Grading: Letter (ABCD/NP)
+Instructors: Wigen, K. (PI)
 
-Whether Earth Science modeling is performed on a local, regional or global scale, for scientific or engineering purposes, uncertainty is inherently present due to lack of data and lack of understanding of the underlying phenomena. This course highlights the various issues, techniques and practical modeling tools available for modeling uncertainty of complex 3D/4D Earth systems. The course focuses on a practical breath rather than theoretical depth. Topics covered are: the process of building models, sources of uncertainty, probabilistic techniques, spatial data analysis and geostatistics, grid and scale, spatio-temporal uncertainty, visualizing uncertainty in large dimensions, Monte Carlo simulation, reducing uncertainty with data, value of information. Applications to both local (reservoir, aquifer) and global (climate) are covered through literature study. Extensive software use with SGEMS and Petrel. Project homework. Prerequisites: algebra ( CME 104 or equivalent), introductory statistics course ( CME 106 or equivalent).
-Terms: Win | Units: 3 | Grading: Letter (ABCD/NP)
-Instructors: Caers, J. (PI) ; Haider, B. (TA)
+#### URBANST 105: The Hipster and the City: Race, Ethnicity, Hip-Hop, and Gentrification in Oakland
+This course introduces undergraduate students to the theory and methods of the geospatial approaches to urban problems like gentrification through urban storytelling, i.e.,listening to the stories that people tell about their experience in the city and interpreting these narratives with the aforementioned tools and analytical framework. nn Using social media, History pin software, Detour (Walking Tours,) and other spatial theory and technical learning methodologies including Google Street view and Tagging collectives, we will take Walking Tours through Oakland to understand gentrification. Students will select one of five areas of Oakland and interview people and record their stories. This is a course that is place-based audio storytelling with the Detour software that is used in Stanford¿s Media X department.nn As an urban storyteller, the student learns that stories are place-based. Next, the student learns how to find a Narrator, who can tell the story, and; finally, the student must discover what the story really is.nn We will meet the President of SPUR, an important lobbying organization for Oakland. We will also visit rapper and political leader, Boots Reily, and Radio DJ JR, visit with the Oakland Mayor, Libby Schaaf, and finally an interview with Crazy Kyle, who is self-described as a ¿White Negro.¿ nn Thus, the Urban Storyteller is both an observer and a participant who speaks to us about race, ethnicity, hip-hop, and gentrification in the American City, such as Oakland. The Corner is the place-based site for the intersection of oral and digital culture. But the Walking Tour is more dynamic.
+Terms: Aut | Units: 4 | Grading: Letter (ABCD/NP)
+Instructors: Brown, C. (PI)
 
-#### ENERGY 240/GES 240: Geostatistics
-Geostatistical theory and practical methodologies for quantifying and simulating spatial and spatio-temporal patterns for the Earth Sciences. Real case development of models of spatial continuity, including variograms, Boolean models and training images. Estimation versus simulation of spatial patterns. Loss functions. Estimation by kriging, co-kriging with secondary data. Dealing with data on various scales. Unconditional and conditional Boolean simulation, sequential simulation for continuous and categorical variables. Multi-variate geostatistical simulation. Probabilistic and pattern-based approaches to multiple-point simulation. Trend, secondary variable, auxiliary variable and probability-type constraints. Quality control techniques on generated models. Workflows for practical geostatistical applications in mining, petroleum, hydrogeology, remote sensing and environmental sciences. prerequisites: Energy 160/260 or basic course in data analysis/statistics
-Terms: Spr | Units: 2-3 | Grading: Letter (ABCD/NP)
-Instructors: Caers, J. (PI) ; Li, L. (TA)
-
-#### EESS 214: Introduction to geostatistics and modeling of spatial uncertainty
-Introduction of fundamental geostatistical tools for modeling spatial variability and uncertainty, and mapping of environmental attributes. Additional topics include sampling design and incorporation of different types of information (continuous, categorical) in prediction. Assignments consist of small problems to familiarize students with theoretical concepts, and applications dealing with the analysis and interpretation of various data sets (soil, water pollution, atmospheric constituents, remote sensing) primarily using Matlab. No prior programming experience is required. Open to graduates. Open to undergraduates with consent from the instructor. 3-credit option includes midterm/final or student-developed project. 4-credit option requires both. Prerequisite: College-level introductory statistics.
-Terms: not given this year | Units: 3-4 | Grading: Letter (ABCD/NP)
-
-GEOPHYS 241A/ENERGY 141/ENERGY 241: Seismic Reservoir Characterization 
-(Same as GP241) Practical methods for quantitative characterization and uncertainty assessment of subsurface reservoir models integrating well-log and seismic data. Multidisciplinary combination of rock-physics, seismic attributes, sedimentological information and spatial statistical modeling techniques. Student teams build reservoir models using limited well data and seismic attributes typically available in practice, comparing alternative approaches. Software provided (SGEMS, Petrel, Matlab).nnRecommended: ERE240/260, or GP222/223, or GP260/262 or GES253/257; ERE246, GP112
-Terms: Spr | Units: 3-4 | Grading: Letter (ABCD/NP)
-Instructors: Mukerji, T. (PI)
-
-#### HISTORY 205F: Digital History: Concepts, Methods, Problems
-Students will study the development of the relationship between the discipline of history and computing tools through a combination of theoretical and hands-on activities, and readings. Students will read leading critical works, examine seminal digital projects, and examine the works of leading digital humanities scholars. The course will introduce students to concepts and methods within digital history, including text analysis, spatial history, data visualization, and digital scholarship. The end product of the course will be a born-digital scholarly product.
-Terms: Aut | Units: 5 | Grading: Letter (ABCD/NP)
-Instructors: Heppler, J. (PI)
-
-####ME 215: From Maps to Meaning
-One of the oldest visual tools created by humans to make sense of the complexities of our world, maps are unique in their ability to synthesize data, convey meaning through spatial logic, and deliver information at high resolution. They are also incredible tools for communication, data sorting, and insight finding. This is a hands-on, project-centered course where students will create maps to to synthesize complex information and also use maps as a tool for working on design problems. Students will tackle three main projects and several shorter assignments.
-Terms: Win | Units: 3 | Grading: Satisfactory/No Credit
-Instructors: Carter, C. (PI) ; Goel, A. (PI)
-
-#### POLISCI 350D: Political Methodology IV: Advanced Topics
-Covers advanced statistical tools that are useful for empirical research in political science. Possible topics include missing data, survey sampling and experimental designs for field research, machine learning, text mining, clustering, Bayesian methods, spatial statistics, and web scraping.
-Terms: Spr | Units: 5 | Grading: Letter or Credit/No Credit
-Instructors: Rivers, D. (PI)
-
-#### STATS 253: Analysis of Spatial and Temporal Data
-A unified treatment of methods for spatial data, time series, and other correlated data from the perspective of regression with correlated errors. Two main paradigms for dealing with autocorrelation: covariance modeling (kriging) and autoregressive processes. Bayesian methods. Prerequisites: applied linear algebra ( MATH 103 or equivalent), statistical estimation ( STATS 200 or CS 229), and linear regression ( STATS 203 or equivalent).
-Terms: Sum | Units: 3 | Grading: Letter or Credit/No Credit
-Instructors: Sun, D. (PI)
-
-#### STATS 360/EESS 260: Advanced Statistical Methods for Earth System Analysis
-Introduction for graduate students to important issues in data analysis relevant to earth system studies. Emphasis on methodology, concepts and implementation (in R), rather than formal proofs. Likely topics include the bootstrap, non-parametric methods, regression in the presence of spatial and temporal correlation, extreme value analysis, time-series analysis, high-dimensional regressions and change-point models. Topics subject to change each year. Prerequisites: STATS 110 or equivalent.
-Terms: Win | Units: 3 | Grading: Letter or Credit/No Credit
-Instructors: Rajaratnam, B. (PI)
