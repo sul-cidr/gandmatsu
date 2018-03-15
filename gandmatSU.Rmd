@@ -164,6 +164,11 @@ Instructors: Berger, J. (PI)
 
 ## Spatial
 
+#### ANTHRO 116B: Anthropology of the Environment (ANTHRO 216B)
+This seminar interrogates the history of anthropology's approach to the environment, beginning with early functionalist, structuralist, and Marxist accounts of human-environment relationships. It builds towards more recent developments in the field, focusing on nonhuman and relational ontologies as well as current projects on the intersections of nature, capital, politics, and landscape histories. At the end of this class, students will be familiar with the intellectual histories of environmental anthropology and contemporary debates and tensions around questions of ethics, agency, environment, and historical causality.
+Terms: Spr | Units: 5 | Grading: Letter or Credit/No Credit
+Instructors: Bauer, A. (PI)
+
 #### HISTORY 95N: Maps in the Modern World
 Preference to freshmen. Focus is on cutting-edge research. Topics: the challenge of grasping the globe as a whole; geography's roots in empire; maps as propaganda and as commodities; the cultural production of scale; and the cartography of imaginery worlds.Sources include resources in the Green Library Special Collections and in the Stanford Spatial History Lab.
 Terms: Spr | Units: 4-5 | UG Reqs: GER:DB-SocSci, WAY-SI | Grading: Letter (ABCD/NP)
